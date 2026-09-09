@@ -9,22 +9,13 @@ I build AI-powered SaaS products, Windows desktop applications, automation tools
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzammilijaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Muzammil Ijaz Profile Views"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/muzammilijaz">
-    <img src="https://img.shields.io/github/followers/muzammilijaz?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/muzammilijaz?label=GitHub%20Followers&style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/muzammilwp/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muzammil%20Ijaz-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/meetmuzammil">
-    <img src="https://img.shields.io/badge/X-@meetmuzammil-000000?style=flat&logo=x" alt="X"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muzammil%20Ijaz-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
